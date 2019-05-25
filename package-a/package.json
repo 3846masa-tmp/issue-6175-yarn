@@ -1,0 +1,10 @@
+{
+  "name": "package-a",
+  "version": "1.0.0",
+  "dependencies": {
+    "rimraf": "^2.6.3"
+  },
+  "scripts": {
+    "postinstall": "rimraf file.txt"
+  }
+}

@@ -1,0 +1,1 @@
+This file will removed by rimraf when running postinstall.
